@@ -1,0 +1,74 @@
+.container {
+    width: 320px;
+    height: 568px;
+    border: solid black;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+section {
+    text-align: center;
+    align-content: center;
+}
+/*****************Start Page******************/
+.map {
+    height:300px;
+    width: 250px;
+    border: solid black;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*****************Weather******************/
+.weather {
+    height:450px;
+    width: 250px;
+    border: solid black;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*****************Activity Choices******************/
+.choices {
+    height:500px;
+    width: 250px;
+    border: solid black;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.activity {
+    height:75px;
+    width: 220px;
+    border: solid black;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.activity-photo {
+    display: inline-block;
+    height:50px;
+    width: 50px;
+    border: solid black;
+    border-width: 1px;
+    margin-top: 10px;
+    margin-left: 10px ;
+}
+p {
+    display: inline-block;
+}
+
+/*****************Individual Acitivity Page******************/
+.activity-photo-big {
+    height:175px;
+    width: 175px;
+    border: solid black;
+    border-width: 1px;
+    margin-right: auto;
+    margin-left: auto ;
+}
